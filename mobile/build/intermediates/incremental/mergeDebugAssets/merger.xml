@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="23.1.1"><source path="/Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/assets"/></dataSet><dataSet config="main"><source path="/Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/assets"/></dataSet><dataSet config="debug"><source path="/Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/debug/assets"/></dataSet></merger>

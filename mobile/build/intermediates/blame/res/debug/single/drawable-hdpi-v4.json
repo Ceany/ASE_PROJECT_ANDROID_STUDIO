@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/build/intermediates/res/merged/debug/drawable-hdpi-v4/dialog.png",
+        "source": "/Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/res/drawable-hdpi/dialog.png"
+    },
+    {
+        "merged": "/Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon.png",
+        "source": "/Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/res/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "/Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/build/intermediates/res/merged/debug/drawable-hdpi-v4/exit.png",
+        "source": "/Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/res/drawable-hdpi/exit.png"
+    }
+]

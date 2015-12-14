@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/build/intermediates/res/merged/debug/layout/accountdetails.xml",
+        "source": "/Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/res/layout/accountdetails.xml"
+    },
+    {
+        "merged": "/Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/build/intermediates/res/merged/debug/layout/customerinformation.xml",
+        "source": "/Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/res/layout/customerinformation.xml"
+    },
+    {
+        "merged": "/Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/build/intermediates/res/merged/debug/layout/available_etickettypes.xml",
+        "source": "/Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/res/layout/available_etickettypes.xml"
+    },
+    {
+        "merged": "/Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/build/intermediates/res/merged/debug/layout/login.xml",
+        "source": "/Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/res/layout/login.xml"
+    },
+    {
+        "merged": "/Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/build/intermediates/res/merged/debug/layout/eticketlist.xml",
+        "source": "/Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/res/layout/eticketlist.xml"
+    },
+    {
+        "merged": "/Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/build/intermediates/res/merged/debug/layout/available_etickettypes_list.xml",
+        "source": "/Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/res/layout/available_etickettypes_list.xml"
+    },
+    {
+        "merged": "/Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/build/intermediates/res/merged/debug/layout/eticket.xml",
+        "source": "/Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/res/layout/eticket.xml"
+    },
+    {
+        "merged": "/Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/build/intermediates/res/merged/debug/layout/settings.xml",
+        "source": "/Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/res/layout/settings.xml"
+    }
+]

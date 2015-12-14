@@ -1,0 +1,216 @@
+[
+    {
+        "outputFile": "/Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 63,
+                    "endOffset": 114
+                },
+                "from": {
+                    "file": "/Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 0,
+                        "startOffset": 330,
+                        "endColumn": 59,
+                        "endOffset": 389
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 119,
+                    "endColumn": 50,
+                    "endOffset": 165
+                },
+                "from": {
+                    "file": "/Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 60,
+                        "endColumn": 50,
+                        "endOffset": 106
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 170,
+                    "endColumn": 73,
+                    "endOffset": 239
+                },
+                "from": {
+                    "file": "/Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 0,
+                        "startOffset": 431,
+                        "endColumn": 69,
+                        "endOffset": 500
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 244,
+                    "endColumn": 57,
+                    "endOffset": 297
+                },
+                "from": {
+                    "file": "/Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 0,
+                        "startOffset": 276,
+                        "endColumn": 53,
+                        "endOffset": 329
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 302,
+                    "endColumn": 39,
+                    "endOffset": 337
+                },
+                "from": {
+                    "file": "/Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 0,
+                        "startOffset": 191,
+                        "endColumn": 35,
+                        "endOffset": 226
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 342,
+                    "endColumn": 44,
+                    "endOffset": 382
+                },
+                "from": {
+                    "file": "/Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 0,
+                        "startOffset": 390,
+                        "endColumn": 40,
+                        "endOffset": 430
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 387,
+                    "endColumn": 45,
+                    "endOffset": 428
+                },
+                "from": {
+                    "file": "/Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 0,
+                        "startOffset": 149,
+                        "endColumn": 41,
+                        "endOffset": 190
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 433,
+                    "endColumn": 52,
+                    "endOffset": 481
+                },
+                "from": {
+                    "file": "/Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 0,
+                        "startOffset": 227,
+                        "endColumn": 48,
+                        "endOffset": 275
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 486,
+                    "endColumn": 55,
+                    "endOffset": 537
+                },
+                "from": {
+                    "file": "/Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 0,
+                        "startOffset": 501,
+                        "endColumn": 51,
+                        "endOffset": 552
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 542,
+                    "endColumn": 51,
+                    "endOffset": 589
+                },
+                "from": {
+                    "file": "/Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 0,
+                        "startOffset": 553,
+                        "endColumn": 47,
+                        "endOffset": 600
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 594,
+                    "endColumn": 45,
+                    "endOffset": 635
+                },
+                "from": {
+                    "file": "/Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 107,
+                        "endColumn": 41,
+                        "endOffset": 148
+                    }
+                }
+            }
+        ]
+    }
+]

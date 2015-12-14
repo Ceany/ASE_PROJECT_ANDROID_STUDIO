@@ -1,0 +1,178 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/AndroidManifest.xml:2:1-67:12
+	xmlns:android
+		ADDED from /Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/AndroidManifest.xml:2:11-69
+	package
+		ADDED from /Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/AndroidManifest.xml:4:33-76
+		INJECTED from /Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/AndroidManifest.xml
+		INJECTED from /Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/AndroidManifest.xml:4:7-32
+		INJECTED from /Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/AndroidManifest.xml
+		INJECTED from /Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/AndroidManifest.xml:3:7-30
+		INJECTED from /Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/AndroidManifest.xml
+		INJECTED from /Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/AndroidManifest.xml
+application
+ADDED from /Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/AndroidManifest.xml:5:5-57:15
+MERGED from [com.android.support:support-v4:23.1.1] /Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/AndroidManifest.xml:5:48-80
+	android:icon
+		ADDED from /Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/AndroidManifest.xml:5:18-47
+receiver#de.tum.score.transport4you.mobile.communication.bluetoothcontroller.impl.BluetoothBroadcastReceiver
+ADDED from /Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/AndroidManifest.xml:7:2-17:13
+	android:enabled
+		ADDED from /Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/AndroidManifest.xml:7:127-149
+	android:name
+		ADDED from /Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/AndroidManifest.xml:7:12-126
+intent-filter#de.tum.score.transport4you.mobile.shared.MobileIntents.TEAR_DOWN
+ADDED from /Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/AndroidManifest.xml:8:4-10:20
+action#de.tum.score.transport4you.mobile.shared.MobileIntents.TEAR_DOWN
+ADDED from /Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/AndroidManifest.xml:9:5-102
+	android:name
+		ADDED from /Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/AndroidManifest.xml:9:13-92
+intent-filter#android.bluetooth.device.action.FOUND
+ADDED from /Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/AndroidManifest.xml:11:4-13:20
+action#android.bluetooth.device.action.FOUND
+ADDED from /Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/AndroidManifest.xml:12:5-75
+	android:name
+		ADDED from /Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/AndroidManifest.xml:12:13-65
+intent-filter#android.bluetooth.adapter.action.DISCOVERY_FINISHED
+ADDED from /Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/AndroidManifest.xml:14:4-16:20
+action#android.bluetooth.adapter.action.DISCOVERY_FINISHED
+ADDED from /Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/AndroidManifest.xml:15:5-89
+	android:name
+		ADDED from /Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/AndroidManifest.xml:15:13-79
+receiver#de.tum.score.transport4you.mobile.communication.wificontroller.impl.WiFiBroadcastReceiver
+ADDED from /Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/AndroidManifest.xml:18:2-25:13
+	android:enabled
+		ADDED from /Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/AndroidManifest.xml:18:117-139
+	android:name
+		ADDED from /Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/AndroidManifest.xml:18:12-116
+intent-filter#android.net.wifi.SCAN_RESULTS
+ADDED from /Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/AndroidManifest.xml:22:4-24:20
+action#android.net.wifi.SCAN_RESULTS
+ADDED from /Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/AndroidManifest.xml:23:13-57
+receiver#de.tum.score.transport4you.mobile.communication.connectionmanager.impl.ConnectionBroadcastReceiver
+ADDED from /Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/AndroidManifest.xml:26:2-42:13
+	android:enabled
+		ADDED from /Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/AndroidManifest.xml:26:126-148
+	android:name
+		ADDED from /Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/AndroidManifest.xml:26:12-125
+intent-filter#de.tum.score.transport4you.mobile.shared.MobileIntents.BUS_WIFI_FOUND
+ADDED from /Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/AndroidManifest.xml:27:4-29:20
+action#de.tum.score.transport4you.mobile.shared.MobileIntents.BUS_WIFI_FOUND
+ADDED from /Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/AndroidManifest.xml:28:5-107
+	android:name
+		ADDED from /Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/AndroidManifest.xml:28:13-97
+intent-filter#de.tum.score.transport4you.mobile.shared.MobileIntents.BUS_BT_FOUND
+ADDED from /Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/AndroidManifest.xml:30:4-32:20
+action#de.tum.score.transport4you.mobile.shared.MobileIntents.BUS_BT_FOUND
+ADDED from /Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/AndroidManifest.xml:31:5-105
+	android:name
+		ADDED from /Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/AndroidManifest.xml:31:13-95
+intent-filter#de.tum.score.transport4you.mobile.shared.MobileIntents.BUS_BT_TIMEOUT
+ADDED from /Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/AndroidManifest.xml:33:4-35:20
+action#de.tum.score.transport4you.mobile.shared.MobileIntents.BUS_BT_TIMEOUT
+ADDED from /Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/AndroidManifest.xml:34:5-107
+	android:name
+		ADDED from /Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/AndroidManifest.xml:34:13-97
+intent-filter#de.tum.score.transport4you.mobile.shared.MobileIntents.BUS_WIFI_TIMEOUT
+ADDED from /Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/AndroidManifest.xml:39:4-41:20
+action#de.tum.score.transport4you.mobile.shared.MobileIntents.BUS_WIFI_TIMEOUT
+ADDED from /Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/AndroidManifest.xml:40:5-109
+	android:name
+		ADDED from /Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/AndroidManifest.xml:40:13-99
+activity#de.tum.score.transport4you.mobile.presentation.presentationmanager.impl.LoginScreen
+ADDED from /Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/AndroidManifest.xml:44:2-49:16
+	android:screenOrientation
+		ADDED from /Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/AndroidManifest.xml:44:144-180
+	android:label
+		ADDED from /Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/AndroidManifest.xml:44:111-143
+	android:name
+		ADDED from /Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/AndroidManifest.xml:44:12-110
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/AndroidManifest.xml:45:13-48:29
+action#android.intent.action.MAIN
+ADDED from /Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/AndroidManifest.xml:46:17-69
+	android:name
+		ADDED from /Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/AndroidManifest.xml:46:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/AndroidManifest.xml:47:17-77
+	android:name
+		ADDED from /Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/AndroidManifest.xml:47:27-74
+activity#de.tum.score.transport4you.mobile.presentation.presentationmanager.impl.MainScreen
+ADDED from /Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/AndroidManifest.xml:51:5-161
+	android:screenOrientation
+		ADDED from /Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/AndroidManifest.xml:51:113-149
+	android:name
+		ADDED from /Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/AndroidManifest.xml:51:15-112
+activity#de.tum.score.transport4you.mobile.presentation.presentationmanager.impl.AccountDetailsScreen
+ADDED from /Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/AndroidManifest.xml:52:5-171
+	android:screenOrientation
+		ADDED from /Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/AndroidManifest.xml:52:123-159
+	android:name
+		ADDED from /Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/AndroidManifest.xml:52:15-122
+activity#de.tum.score.transport4you.mobile.presentation.presentationmanager.impl.CustomerInformationScreen
+ADDED from /Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/AndroidManifest.xml:53:5-176
+	android:screenOrientation
+		ADDED from /Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/AndroidManifest.xml:53:128-164
+	android:name
+		ADDED from /Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/AndroidManifest.xml:53:15-127
+activity#de.tum.score.transport4you.mobile.presentation.presentationmanager.impl.ETicketListScreen
+ADDED from /Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/AndroidManifest.xml:54:5-168
+	android:screenOrientation
+		ADDED from /Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/AndroidManifest.xml:54:120-156
+	android:name
+		ADDED from /Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/AndroidManifest.xml:54:15-119
+activity#de.tum.score.transport4you.mobile.presentation.presentationmanager.impl.SettingsScreen
+ADDED from /Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/AndroidManifest.xml:55:5-165
+	android:screenOrientation
+		ADDED from /Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/AndroidManifest.xml:55:117-153
+	android:name
+		ADDED from /Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/AndroidManifest.xml:55:15-116
+activity#de.tum.score.transport4you.mobile.presentation.presentationmanager.impl.AvailableETicketListScreen
+ADDED from /Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/AndroidManifest.xml:56:5-177
+	android:screenOrientation
+		ADDED from /Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/AndroidManifest.xml:56:129-165
+	android:name
+		ADDED from /Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/AndroidManifest.xml:56:15-128
+uses-permission#android.permission.INTERNET
+ADDED from /Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/AndroidManifest.xml:59:1-63
+	android:name
+		ADDED from /Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/AndroidManifest.xml:59:18-60
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/AndroidManifest.xml:60:1-72
+	android:name
+		ADDED from /Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/AndroidManifest.xml:60:18-69
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/AndroidManifest.xml:61:1-72
+	android:name
+		ADDED from /Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/AndroidManifest.xml:61:18-69
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/AndroidManifest.xml:62:1-64
+	android:name
+		ADDED from /Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/AndroidManifest.xml:62:18-61
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/AndroidManifest.xml:63:1-70
+	android:name
+		ADDED from /Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/AndroidManifest.xml:63:18-67
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/AndroidManifest.xml:64:1-63
+	android:name
+		ADDED from /Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/AndroidManifest.xml:64:18-61
+uses-sdk
+ADDED from /Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/AndroidManifest.xml:66:1-39
+MERGED from [com.android.support:support-v4:23.1.1] /Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		INJECTED from /Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/AndroidManifest.xml
+		INJECTED from /Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/AndroidManifest.xml:66:11-36
+		INJECTED from /Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/AndroidManifest.xml
+		INJECTED from /Users/MaxiMac/AndroidStudioProjects/Mobile/mobile/src/main/AndroidManifest.xml
